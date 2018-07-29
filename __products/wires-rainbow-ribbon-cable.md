@@ -1,7 +1,7 @@
 ---
 category: wires
 title: Rainbow ribbon cable
-price: 3.00
+price: 3.50
 slug: rainbow-ribbon-cable
 sku: HGW
 image: /images/Sales/wires_ribbon.jpeg
