@@ -1,7 +1,7 @@
 ---
 category: quadcopters
 title: Rechargeable mini-Lipo
-price: 4.00
+price: 7.00
 slug: Rechargeable-mini-Lipo
 sku: HGW
 image: /images/Sales/power_lipo_mini.jpeg
