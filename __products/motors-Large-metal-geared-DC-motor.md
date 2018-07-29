@@ -1,7 +1,7 @@
 ---
 category: motors
 title: Large metal-geared DC motor
-price: 14.00
+price: 16.00
 slug: Large-metal-geared-DC-motor
 sku: HGW
 image: /images/Sales/motor_wicta.jpeg
