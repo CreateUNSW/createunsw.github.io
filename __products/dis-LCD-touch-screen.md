@@ -1,7 +1,7 @@
 ---
 category: displays
 title: LCD touch screen
-price: 10.00
+price: 16.00
 slug: LCD-touch-screen
 sku: HGW
 image: /images/Sales/display_touch_lcd.jpeg
