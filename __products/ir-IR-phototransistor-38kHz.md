@@ -1,7 +1,7 @@
 ---
 category: ir-recievers
 title: IR phototransistor - 38kHz
-price: 0.50
+price: 0.70
 slug: ir-phototransistor-38kHz
 sku: HGW
 image: /images/Sales/light_IR_38K.jpeg
