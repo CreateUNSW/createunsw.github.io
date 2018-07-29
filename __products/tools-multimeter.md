@@ -1,7 +1,7 @@
 ---
 category: tools
 title: Multimeter
-price: 7.50
+price: 9.00
 slug: multimeter
 sku: HGW
 image: /images/Sales/tools_dmm.jpeg
