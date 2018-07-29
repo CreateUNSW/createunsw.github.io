@@ -1,7 +1,7 @@
 ---
 category: ir-recievers
 title: IR LEDs and phototransistors
-price: 0.20
+price: 0.50
 slug: ir-leds-and-phototransistors
 sku: HGW
 image: /images/Sales/light_IRpair.jpeg
