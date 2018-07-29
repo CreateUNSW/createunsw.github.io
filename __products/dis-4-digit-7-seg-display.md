@@ -1,7 +1,7 @@
 ---
 category: displays
 title: 4-digit 7-seg display
-price: 2.50
+price: 4.00
 slug: 4-digit-7-seg-display
 sku: HGW
 image: /images/Sales/display_7seg_4digit.jpeg
