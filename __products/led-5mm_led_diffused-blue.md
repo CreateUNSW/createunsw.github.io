@@ -1,7 +1,7 @@
 ---
 category: led
 title: 5mm LEDs - diffused blue
-price: 0.10
+price: 0.20
 slug: 5mm-leds-diffused-blue
 sku: HGW
 image: /images/Sales/light_5mmleds-blue.jpeg
