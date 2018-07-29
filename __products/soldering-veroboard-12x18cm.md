@@ -1,7 +1,7 @@
 ---
 category: soldering
 title: Veroboard 12x18cm
-price: 5.00
+price: 8.50
 slug: veroboard-12x18cm
 sku: HGW
 image: /images/Sales/proto_veroboard.jpeg
