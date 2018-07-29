@@ -1,7 +1,7 @@
 ---
 category: servos
 title: Large metal-geared servo
-price: 8.50
+price: 10.00
 slug: large-metal-geared-servo
 sku: HGW
 image: /images/Sales/servo_large.jpeg
