@@ -1,7 +1,7 @@
 ---
 category: motors
 title: Tiny metallic DC motor
-price: 6.00
+price: 8.00
 slug: Tiny-metallic-DC-motor
 sku: HGW
 image: /images/Sales/motor_N20.jpeg
