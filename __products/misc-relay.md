@@ -1,7 +1,7 @@
 ---
 category: miscellaneous
 title: Relay
-price: 2.50
+price: 3.00
 slug: relay
 sku: HGW
 image: /images/Sales/misc_relay.jpeg
