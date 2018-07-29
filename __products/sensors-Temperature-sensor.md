@@ -1,7 +1,7 @@
 ---
 category: sensors
 title: Temperature sensor
-price: 2.00
+price: 2.50
 slug: temperature-sensor
 sku: HGW
 image: /images/Sales/package_to92.jpeg
