@@ -1,7 +1,7 @@
 ---
 category: power
 title: Boost Module
-price: 5.00
+price: 8.00
 slug: boost-module
 sku: HGW
 image: /images/Sales/power_buck_boost.jpg
