@@ -1,7 +1,7 @@
 ---
 category: servos
 title: Small metal-geared servo
-price: 6.00
+price: 8.00
 slug: small-metal-geared-servo
 sku: HGW
 image: /images/Sales/servo_small_metal.jpeg
