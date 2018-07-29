@@ -1,7 +1,7 @@
 ---
 category: drivers
 title: Big motor driver
-price: 5.00
+price: 8.00
 slug: big-motor-driver
 sku: HGW
 image: /images/Sales/motordriver_L298.jpeg
