@@ -2,7 +2,7 @@
 category: power
 title: Buck Module
 price: 7.00
-slug: buck-module
+slug: buck-and-boost-modules
 sku: HGW
 image: /images/Sales/power_buck_boost.jpg
 layout: productdetails
