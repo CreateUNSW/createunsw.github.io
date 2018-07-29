@@ -1,7 +1,7 @@
 ---
 category: breadboards
 title: Large breadboard
-price: 8.00
+price: 9.50
 slug: large-breadboard
 sku: HGW
 image: /images/Sales/proto_breadboard_large.jpeg
