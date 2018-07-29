@@ -1,7 +1,7 @@
 ---
 category: drivers
 title: Motor driver shield
-price: 5.00
+price: 9.00
 slug: motor-driver-shield
 sku: HGW
 image: /images/Sales/motordriver_L293_shield.jpeg
