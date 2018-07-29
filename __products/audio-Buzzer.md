@@ -1,7 +1,7 @@
 ---
 category: audio
 title: Buzzer
-price: 0.50
+price: 1.00
 slug: buzzer
 sku: HGW
 image: /images/Sales/audio_buzzer.jpeg
