@@ -1,7 +1,7 @@
 ---
 category: displays
 title: 16x2 character LCD
-price: 8.50
+price: 10.00
 slug: 16x2-character-LCD
 sku: HGW
 image: /images/Sales/display_16x2_lcd.jpeg
