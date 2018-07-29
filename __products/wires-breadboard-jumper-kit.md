@@ -1,7 +1,7 @@
 ---
 category: wires
 title: Breadboard Jumper Kit
-price: 3.50
+price: 4.00
 slug: Breadboard-Jumper-Kit
 sku: HGW
 image: /images/Sales/wires_kit.jpeg
