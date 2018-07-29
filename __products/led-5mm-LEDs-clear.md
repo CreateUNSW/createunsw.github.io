@@ -1,7 +1,7 @@
 ---
 category: led
 title: 5mm LEDs - clear
-price: 0.10
+price: 0.20
 slug: 5mm-leds-clear
 sku: HGW
 image: /images/Sales/light_5mmleds_clear.jpeg
