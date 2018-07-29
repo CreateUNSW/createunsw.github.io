@@ -1,7 +1,7 @@
 ---
 category: kits
 title: Basics Kit
-price: 25.00
+price: 28.00
 slug: basics-kit
 sku: HGW
 image: /images/Sales/basic-kit.jpg
