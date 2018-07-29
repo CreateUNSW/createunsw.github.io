@@ -1,7 +1,7 @@
 ---
 category: gears
 title: Gear set
-price: 5.00
+price: 7.50
 slug: Gear-set
 sku: HGW
 image: /images/Sales/mech_gears.jpeg
