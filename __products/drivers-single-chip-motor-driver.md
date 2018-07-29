@@ -1,7 +1,7 @@
 ---
 category: drivers
 title: Single-chip motor driver
-price: 2.00
+price: 2.50
 slug: single-chip-motor-driver
 sku: HGW
 image: /images/Sales/package_dip16.jpeg
