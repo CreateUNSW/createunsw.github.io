@@ -1,7 +1,7 @@
 ---
 category: servos
 title: Small plastic-geared servo
-price: 4.00
+price: 6.00
 slug: small-plastic-geared-servo
 sku: HGW
 image: /images/Sales/servo_small_plastic.jpeg
