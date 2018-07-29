@@ -1,7 +1,7 @@
 ---
 category: kits
 title: Mega kit
-price: 50.00
+price: 52.00
 slug: mega-kit
 sku: HGW
 image: /images/Sales/kit_comprehensive2.jpeg
