@@ -1,7 +1,7 @@
 ---
 category: soldering
 title: Veroboard 5x7cm
-price: 2.00
+price: 3.00
 slug: veroboard-5x7cm
 sku: HGW
 image: /images/Sales/proto_veroboard.jpeg
