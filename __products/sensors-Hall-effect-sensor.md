@@ -1,7 +1,7 @@
 ---
 category: sensors
 title: Hall effect sensor
-price: 1.00
+price: 1.20
 slug: hall-effect-sensor
 sku: HGW
 image: /images/Sales/sensor_hall.jpeg
