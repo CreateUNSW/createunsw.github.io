@@ -1,7 +1,7 @@
 ---
 category: communications
 title: Long Range RF
-price: 9.00
+price: 12.00
 slug: long-range-rf
 sku: HGW
 image: /images/Sales/comms_rf_long.jpeg
