@@ -1,7 +1,7 @@
 ---
 category: motors
 title: Stepper motor
-price: 16.00
+price: 19.00
 slug: stepper-motor
 sku: HGW
 image: /images/Sales/motor_stepper.jpeg
