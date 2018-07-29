@@ -1,7 +1,7 @@
 ---
 category: soldering
 title: Veroboard 7x9cm
-price: 2.50
+price: 3.50
 slug: veroboard-7x9cm
 sku: HGW
 image: /images/Sales/proto_veroboard.jpeg
