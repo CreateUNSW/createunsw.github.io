@@ -1,7 +1,7 @@
 ---
 category: communications
 title: USB to UART
-price: 2.00
+price: 3.00
 slug: usb-to-uart
 sku: HGW
 image: /images/Sales/comms_usb_uart.jpeg
