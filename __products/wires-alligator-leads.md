@@ -1,7 +1,7 @@
 ---
 category: wires
 title: Alligator leads
-price: 5.00
+price: 6.50
 slug: alligator-leads
 sku: HGW
 image: /images/Sales/wires_alligator.jpeg
