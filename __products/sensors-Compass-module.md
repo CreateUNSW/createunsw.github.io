@@ -1,7 +1,7 @@
 ---
 category: sensors
 title: Compass module
-price: 7.00
+price: 9.00
 slug: compass-module
 sku: HGW
 image: /images/Sales/sensor_compass.jpeg
