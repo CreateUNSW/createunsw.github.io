@@ -1,7 +1,7 @@
 ---
 category: mircocontrollers
 title: Arduino Mega compatible
-price: 27.00
+price: 26.00
 slug: arduino-mega-compatible
 sku: HGW
 image: /images/Sales/micro_mega.jpeg
