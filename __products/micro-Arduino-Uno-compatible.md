@@ -1,7 +1,7 @@
 ---
 category: mircocontrollers
 title: Arduino Uno compatible
-price: 20.00
+price: 19.00
 slug: Arduino-Uno-compatible
 sku: HGW
 image: /images/Sales/micro_uno.jpeg
