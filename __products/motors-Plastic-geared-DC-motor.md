@@ -1,7 +1,7 @@
 ---
 category: motors
 title: Plastic-geared DC motor
-price: 4.50
+price: 3.50
 slug: Plastic-geared-DC-motor
 sku: HGW
 image: /images/Sales/motor_yellow.jpeg
